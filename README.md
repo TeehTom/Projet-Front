@@ -6,7 +6,8 @@ Après avoir lancé le serveur,
 
 <code>npm start</code>
 
-Sur l'application, vos identifiants sont :
+
+#  Sur l'application, vos identifiants sont :
 
 Julien Paroche : Login:julienpa password:mypassword!
 
